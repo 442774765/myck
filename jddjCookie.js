@@ -4,7 +4,8 @@
 //此处填写京东账号cookie。
 let CookieJDs = [
 
-  ''
+'deviceid_pdj_jd=H5_DEV_A1E53738-C9FB-494D-BFA7-6AB3F98D41EA;o2o_m_h5_sid=eb5159b3-500b-4b23-9e3c-c7031243d925;'//我
+'deviceid_pdj_jd=df2aa0c0b0eeb56d;o2o_m_h5_sid=4bb9c389-fd10-4462-8080-5a99d4100d57;'//98
  
 ]
 // 判断环境变量里面是否有京东到家ck
