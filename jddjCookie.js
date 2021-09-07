@@ -6,7 +6,9 @@ let CookieJDs = [
 
 'deviceid_pdj_jd=H5_DEV_A1E53738-C9FB-494D-BFA7-6AB3F98D41EA;o2o_m_h5_sid=eb5159b3-500b-4b23-9e3c-c7031243d925;', //我
 'deviceid_pdj_jd=df2aa0c0b0eeb56d;o2o_m_h5_sid=4bb9c389-fd10-4462-8080-5a99d4100d57;' //98
- 
+'deviceid_pdj_jd=H5_DEV_BC235821-769F-4457-AD15-EC5540BEA16C; h5_coords_obj=""; o2o_m_h5_sid=2e38a969-066f-4854-9c8a-9c0fdd0cbb23;'
+'deviceid_pdj_jd=H5_DEV_0DEB6E6A-1021-4E44-9821-26C944405A9A; h5_coords_obj=""; o2o_m_h5_sid=fbaca03b-a3ad-4496-972e-629d9be914a4;'
+'deviceid_pdj_jd=H5_DEV_7518CED1-E3FE-4EEE-8C87-9A605A089E17; h5_coords_obj=""; o2o_m_h5_sid=4c0e39ea-15dd-46b2-8cee-6ee03168781d;' 
 ]
 // 判断环境变量里面是否有京东到家ck
 if (process.env.JDDJ_COOKIE) {
